@@ -1,0 +1,12 @@
+C:\Users\aluno\Desktop\Atividade1_Repeticao\Atividade1_Repeticao\bin\Debug\Atividade1_Repeticao.exe.config
+C:\Users\aluno\Desktop\Atividade1_Repeticao\Atividade1_Repeticao\bin\Debug\Atividade1_Repeticao.exe
+C:\Users\aluno\Desktop\Atividade1_Repeticao\Atividade1_Repeticao\bin\Debug\Atividade1_Repeticao.pdb
+C:\Users\aluno\Desktop\Atividade1_Repeticao\Atividade1_Repeticao\obj\Debug\Atividade1_Repeticao.csprojAssemblyReference.cache
+C:\Users\aluno\Desktop\Atividade1_Repeticao\Atividade1_Repeticao\obj\Debug\Atividade1_Repeticao.frm_Exe1.resources
+C:\Users\aluno\Desktop\Atividade1_Repeticao\Atividade1_Repeticao\obj\Debug\Atividade1_Repeticao.frm_Exe2.resources
+C:\Users\aluno\Desktop\Atividade1_Repeticao\Atividade1_Repeticao\obj\Debug\Atividade1_Repeticao.frm_Home.resources
+C:\Users\aluno\Desktop\Atividade1_Repeticao\Atividade1_Repeticao\obj\Debug\Atividade1_Repeticao.Properties.Resources.resources
+C:\Users\aluno\Desktop\Atividade1_Repeticao\Atividade1_Repeticao\obj\Debug\Atividade1_Repeticao.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\Atividade1_Repeticao\Atividade1_Repeticao\obj\Debug\Atividade1_Repeticao.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Atividade1_Repeticao\Atividade1_Repeticao\obj\Debug\Atividade1_Repeticao.exe
+C:\Users\aluno\Desktop\Atividade1_Repeticao\Atividade1_Repeticao\obj\Debug\Atividade1_Repeticao.pdb
